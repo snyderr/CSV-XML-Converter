@@ -46,3 +46,7 @@ For this project to be production ready I would like to add the following featur
 * Allow editing of data before conversion
 * Allow users to convert multiple files at the same time
 
+### Future Testing
+* Test different ASCII character inputs to ensure no data is altered in the conversion
+* Test to ensure that the proper error messages are displayed to the user
+
