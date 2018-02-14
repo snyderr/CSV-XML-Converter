@@ -17,24 +17,24 @@ There are also unit tests that are provided within the `ConvertTest.java`file.
 
 These tests can be run using JUinit.
 
-## Test Cases
+### Test Cases
 
-### Test Normal File
+#### Test Normal File
 This test will ensure that the program can properly convert a csv file to an xml file.
 
-### Test Missing Fields
+#### Test Missing Fields
 This test will ensure that the program can prperly convert a csv file that has missing data to an xml file.
-### Test Large File
+#### Test Large File
 This test will ensure that the program can handle large csv files.
 
-### Test Invalid File
+#### Test Invalid File
 This test will ensure that no XML is created when passing a file that does not exist.
 
-### Test No Extension
+#### Test No Extension
 
 This test will ensure that no XML is created when passing a file with no extension.
 
-### Test Wrong Extension
+#### Test Wrong Extension
 This test will ensure that the an XML file is not created when passing in an invalid file type. (Any file that is not a csv)
 
 
